@@ -1,81 +1,44 @@
 <h1 align="center">Hi 👋, I'm Alok Kumar</h1>
 
 <h3 align="center">
-Full Stack Developer | MERN Stack | Django | AI & Voicebot Enthusiast
+Full Stack Developer | MERN Stack | Django | AI Enthusiast
 </h3>
 
 <p align="center">
-<a href="https://github.com/Alokkumarlpu">
-<img src="https://komarev.com/ghpvc/?username=Alokkumarlpu&label=Profile%20Views&color=0e75b6&style=flat" />
-</a>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Developer;AI+Voicebot+Developer;Open+Source+Contributor&center=true&width=500&height=45">
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Developer;AI+and+Voice+Assistant+Builder;Open+Source+Contributor&center=true&width=500&height=45">
+<img src="https://komarev.com/ghpvc/?username=Alokkumarlpu&label=Profile%20Views&color=blue&style=flat"/>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# 🚀 About Me
 
 🎓 Computer Science Engineering student at **Lovely Professional University**
 
-💡 Passionate about **Full Stack Development, AI Applications, and Intelligent Systems**
+💡 Passionate about **Full Stack Development, AI Applications, and Scalable Systems**
 
-🚀 Building **real-world scalable applications**
+⚡ I enjoy building **real-world applications and intelligent assistants**
 
 🏆 Hackathon Finalist | Kaggle Python Coder
 
-🌱 Currently exploring:
+🌱 Currently learning
 
-• Advanced Backend Systems  
-• Cloud & DevOps  
-• AI-powered applications  
-
----
-
-# ⚡ Tech Stack
-
-### Programming Languages
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php)
+- Advanced Backend Systems  
+- Cloud & DevOps  
+- AI-driven Applications  
 
 ---
 
-### Frontend
+# 🛠 Tech Stack
 
-![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,php,html,css,tailwind,react,nodejs,django,fastapi,mongodb,mysql,git,github,vscode,postman,docker"/>
 
-### Backend
-
-![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![Django](https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=django)
-![FastAPI](https://img.shields.io/badge/FastAPI-teal?style=for-the-badge&logo=fastapi)
-
----
-
-### Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-
----
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
-![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
+</p>
 
 ---
 
@@ -90,7 +53,7 @@ Full Stack Developer | MERN Stack | Django | AI & Voicebot Enthusiast
 
 • Implemented authentication systems
 
-• Improved performance and scalability of web applications
+• Improved performance and scalability
 
 ---
 
@@ -100,11 +63,11 @@ Full Stack Developer | MERN Stack | Django | AI & Voicebot Enthusiast
 
 ## 🔋 Battery Swap VoiceBot Assistant
 
-AI-powered **Voice Assistant for Electric Vehicle Battery Swapping Services** that enables real-time support through voice interaction.
+AI-powered **Voice Assistant for Electric Vehicle Battery Swapping Services** providing real-time customer support through voice interaction.
 
 ### Features
 
-🎙 Voice-based interaction using **Speech Recognition**
+🎙 Voice interaction using **Speech Recognition**
 
 🧠 Intent detection using **TF-IDF + Logistic Regression**
 
@@ -114,7 +77,7 @@ AI-powered **Voice Assistant for Electric Vehicle Battery Swapping Services** th
 
 🚨 Emergency keyword detection
 
-📞 Telephony integration using **FastAPI Webhooks**
+📞 Telephony integration via **FastAPI Webhooks**
 
 🔊 Text-to-Speech responses using **Google gTTS**
 
@@ -125,21 +88,21 @@ FastAPI
 Scikit-learn  
 SpeechRecognition  
 Google Speech API  
-gTTS
+gTTS  
 
 ---
 
 ## 🛒 GeM Price Comparison Platform
 
-A web platform that compares **Government e-Marketplace (GeM) prices with other marketplaces**.
+Platform that compares **Government e-Marketplace prices with other marketplaces** to help users find the best price.
 
 ### Features
 
 • Product price comparison  
 • Historical price tracking  
-• Email & SMS alerts for price drops  
+• Email & SMS price alerts  
 • User dashboard  
-• Admin product monitoring panel  
+• Admin monitoring system  
 
 ### Tech Stack
 
@@ -157,7 +120,7 @@ Online car rental management platform.
 
 ### Features
 
-• Role-based authentication (Admin, Owner, Customer)
+• Role-based authentication
 
 • Secure **Razorpay payment integration**
 
@@ -176,14 +139,17 @@ Razorpay
 
 ## 🌐 Language Translator Platform
 
-Government-style **English to Hindi translation platform**.
+Government-style **English to Hindi translation system**.
 
 ### Features
 
-• Role-based access control  
-• AI-powered translation  
-• Bulk CSV translation  
-• Translation history tracking  
+• Role-based access control
+
+• AI-powered translation
+
+• Bulk CSV translation
+
+• Translation history tracking
 
 ### Tech Stack
 
@@ -196,7 +162,7 @@ Node.js
 
 ## 🐍 Java Applications
 
-Developed multiple Java applications using **Java Swing and OOP**:
+Developed multiple Java applications using **Java Swing and OOP**
 
 • Snake Game  
 • File Splitter & Merger  
@@ -208,7 +174,7 @@ Developed multiple Java applications using **Java Swing and OOP**:
 # 🏆 Achievements
 
 🥇 **HackSmart Hackathon Finalist (Top 10 Teams)**  
-Built a **multilingual voice assistant using LLAMA LLM**
+Built a multilingual voice assistant using **LLAMA LLM**
 
 🐍 **Python Coder Badge — Kaggle**
 
@@ -228,9 +194,9 @@ Built a **multilingual voice assistant using LLAMA LLM**
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Alokkumarlpu&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api?username=Alokkumarlpu&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alokkumarlpu&layout=compact&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alokkumarlpu&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -239,7 +205,39 @@ Built a **multilingual voice assistant using LLAMA LLM**
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alokkumarlpu&theme=tokyonight">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alokkumarlpu&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 GitHub Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alokkumarlpu&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Alokkumarlpu&theme=tokyonight&row=1"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+
 </p>
 
 ---
