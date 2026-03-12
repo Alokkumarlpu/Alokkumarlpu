@@ -1,136 +1,145 @@
 <h1 align="center">Hi 👋, I'm Alok Kumar</h1>
-<h3 align="center">Full Stack Developer | MERN Stack | Django | AI Enthusiast</h3>
+
+<h3 align="center">
+Full Stack Developer | MERN Stack | Django | AI & Voicebot Enthusiast
+</h3>
 
 <p align="center">
-  <a href="https://github.com/Alokkumarlpu">
-    <img src="https://komarev.com/ghpvc/?username=Alokkumarlpu&label=Profile%20Views&color=blue&style=flat" />
-  </a>
+<a href="https://github.com/Alokkumarlpu">
+<img src="https://komarev.com/ghpvc/?username=Alokkumarlpu&label=Profile%20Views&color=0e75b6&style=flat" />
+</a>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Developer;AI+and+Voice+Assistant+Builder;Open+Source+Contributor&center=true&width=500&height=45">
 </p>
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 About Me
 
 🎓 Computer Science Engineering student at **Lovely Professional University**
 
-💻 Passionate about **Full Stack Development, AI Applications, and Scalable Systems**
+💡 Passionate about **Full Stack Development, AI Applications, and Intelligent Systems**
 
-🌱 Currently learning **Advanced Backend Development, System Design, and Cloud Computing**
-
-⚡ I enjoy building **real-world applications that solve practical problems**
+🚀 Building **real-world scalable applications**
 
 🏆 Hackathon Finalist | Kaggle Python Coder
 
+🌱 Currently exploring:
+
+• Advanced Backend Systems  
+• Cloud & DevOps  
+• AI-powered applications  
+
 ---
 
-# 🛠 Tech Stack
+# ⚡ Tech Stack
 
 ### Programming Languages
-C++ | Python | Java | JavaScript | PHP
 
-### Frontend Development
-HTML | CSS | Tailwind CSS | React.js
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php)
 
-### Backend Development
-Node.js | Express.js | Django | FastAPI | REST APIs
+---
+
+### Frontend
+
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+
+---
+
+### Backend
+
+![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![Django](https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=django)
+![FastAPI](https://img.shields.io/badge/FastAPI-teal?style=for-the-badge&logo=fastapi)
+
+---
 
 ### Databases
-MongoDB | MySQL
 
-### Tools & Platforms
-Git | GitHub | Postman | VS Code | Docker
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+
+---
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
+![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
 # 💼 Experience
 
-## Web Development Intern — Vanillakart  
+### Web Development Intern — Vanillakart  
 📅 Sep 2025 – Nov 2025
 
-- Built responsive web applications using **MERN Stack (MongoDB, Express, React, Node.js)**
-- Developed REST APIs and dynamic UI components
-- Implemented authentication and optimized performance
-- Collaborated with development teams to deliver scalable solutions
+• Built responsive applications using **MERN Stack**
+
+• Developed **REST APIs and dynamic UI components**
+
+• Implemented authentication systems
+
+• Improved performance and scalability of web applications
 
 ---
 
 # 🚀 Featured Projects
 
+---
+
 ## 🔋 Battery Swap VoiceBot Assistant
 
-An **AI-powered Voice Assistant for Electric Vehicle Battery Swapping Services** that helps EV users get real-time assistance through voice interaction.
+AI-powered **Voice Assistant for Electric Vehicle Battery Swapping Services** that enables real-time support through voice interaction.
 
-The system processes user speech, understands intent using machine learning, and provides automated responses or escalates to human agents when necessary.
+### Features
 
-### Key Features
+🎙 Voice-based interaction using **Speech Recognition**
 
-🎙 Voice-Based Interaction  
-Users can interact with the assistant using voice commands such as:
+🧠 Intent detection using **TF-IDF + Logistic Regression**
 
-- "Nearest battery swap station"
-- "What is my battery balance?"
+💬 Sentiment analysis to detect frustrated users
 
-Speech is processed using **Automatic Speech Recognition (ASR)**.
+🔁 Multi-turn conversation support
 
-🧠 Natural Language Understanding  
-Intent detection using:
+🚨 Emergency keyword detection
 
-- TF-IDF Vectorization
-- Logistic Regression
+📞 Telephony integration using **FastAPI Webhooks**
 
-Supported intents:
-
-- nearest_station  
-- check_balance  
-- complaint  
-- general_query  
-
-💬 Sentiment Analysis  
-Detects user frustration and escalates conversations to human agents when required.
-
-🔁 Multi-Turn Conversations  
-Dialog manager enables menu-based interactions and conversation tracking.
-
-🚨 Safety Detection  
-Detects emergency keywords such as:
-
-- fire
-- accident
-- explosion
-- gas leak
-
-Automatically escalates the call to a support agent.
-
-📞 Telephony Integration  
-Uses **FastAPI webhooks** to connect users to human support agents when necessary.
-
-🔊 Text-to-Speech  
-Bot responses are converted into speech using **Google Text-to-Speech (gTTS)**.
+🔊 Text-to-Speech responses using **Google gTTS**
 
 ### Tech Stack
 
 Python  
 FastAPI  
 Scikit-learn  
-TF-IDF Vectorization  
-Logistic Regression  
 SpeechRecognition  
 Google Speech API  
-Google Text-to-Speech (gTTS)
+gTTS
 
 ---
 
 ## 🛒 GeM Price Comparison Platform
 
-A web platform that compares **Government e-Marketplace (GeM) product prices with other e-commerce platforms** to help buyers find the best prices.
+A web platform that compares **Government e-Marketplace (GeM) prices with other marketplaces**.
 
 ### Features
 
-- Product price comparison
-- Historical price tracking
-- User login and dashboard
-- Email & SMS price alerts
-- Admin panel for monitoring product prices
+• Product price comparison  
+• Historical price tracking  
+• Email & SMS alerts for price drops  
+• User dashboard  
+• Admin product monitoring panel  
 
 ### Tech Stack
 
@@ -138,53 +147,68 @@ HTML
 Tailwind CSS  
 JavaScript  
 PHP  
-MySQL
+MySQL  
 
 ---
 
 ## 🚗 Car Rental Web Application
 
-Tech: **Django, MySQL, Razorpay, Tailwind CSS**
+Online car rental management platform.
 
 ### Features
 
-- Online car rental management system
-- Role-based authentication (Admin, Owner, Customer)
-- Secure payment integration using Razorpay
-- Real-time booking management
-- Car listing and availability tracking
+• Role-based authentication (Admin, Owner, Customer)
+
+• Secure **Razorpay payment integration**
+
+• Car listing & booking management
+
+• Real-time booking system
+
+### Tech Stack
+
+Django  
+MySQL  
+Tailwind CSS  
+Razorpay
 
 ---
 
 ## 🌐 Language Translator Platform
 
-Tech: **MERN Stack**
+Government-style **English to Hindi translation platform**.
 
 ### Features
 
-- English-to-Hindi translation system
-- Role-based access control (Admin, Translator, Viewer)
-- AI-powered translation
-- Bulk CSV translation processing
-- Translation history tracking
+• Role-based access control  
+• AI-powered translation  
+• Bulk CSV translation  
+• Translation history tracking  
+
+### Tech Stack
+
+MongoDB  
+Express.js  
+React.js  
+Node.js
 
 ---
 
 ## 🐍 Java Applications
 
-Built multiple Java-based applications using **Java Swing and OOP**:
+Developed multiple Java applications using **Java Swing and OOP**:
 
-- Snake Game
-- File Splitter & Merger
-- World Clock
-- Road Runner Game
+• Snake Game  
+• File Splitter & Merger  
+• World Clock  
+• Road Runner Game  
 
 ---
 
 # 🏆 Achievements
 
 🥇 **HackSmart Hackathon Finalist (Top 10 Teams)**  
-Developed a multilingual voice assistant using **LLAMA LLM with real-time speech processing**
+Built a **multilingual voice assistant using LLAMA LLM**
 
 🐍 **Python Coder Badge — Kaggle**
 
@@ -192,17 +216,31 @@ Developed a multilingual voice assistant using **LLAMA LLM with real-time speech
 
 # 📜 Certifications
 
-- Generative AI Mastermind — OutSkill  
-- Cloud Computing — NPTEL  
-- Google's Adversarial Nibbler Project
+• Generative AI Mastermind — OutSkill  
+
+• Cloud Computing — NPTEL  
+
+• Google Adversarial Nibbler Project  
 
 ---
 
 # 📊 GitHub Stats
 
-![Alok's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alokkumarlpu&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alokkumarlpu&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=Alokkumarlpu&show_icons=true&theme=tokyonight">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alokkumarlpu&layout=compact&theme=tokyonight">
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alokkumarlpu&theme=tokyonight">
+</p>
 
 ---
 
